@@ -1,0 +1,81 @@
+h1{
+    color: black;
+    padding: 15px;
+    background-color: gray;
+    text-align: center;
+}
+span{
+    color: red;
+    padding: 15px;
+    background-color: gray;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    text-align: center;
+    display: block;
+}
+img{
+    display: inline;
+}
+header{
+    margin: 0px;
+    padding: 0px 0px;
+    display: inline;
+    /* position:fixed; */
+    /* top: 200px; */
+    /* bottom: 80px; */
+    background-size: 100% 100%;
+}
+#linki{
+    display: inline;
+}
+#jeden{
+    background-image: "logomiasta.jpg";
+    text-align:center;
+}
+#artjeden{
+    /* background-image:url("logomiasta.jpg"); */
+    margin: 200px;
+    border-radius: 0px 20px 20px 20px;
+    background-color: red;
+    padding:100px;
+    /* background-size: contain; */
+    
+}
+#artjeden:hover{
+    /* background-image:url("logomiasta.jpg"); */
+    margin: 200px;
+    border-radius: 0px 20px 20px 20px;
+    background-color: blue;
+    padding:100px;
+    /* background-size: contain; */
+    
+}
+html{
+    background-color:blueviolet;
+}
+#artdwa{
+    /* background-image:url("logomiasta.jpg"); */
+    margin: 200px;
+    border-radius: 0px 20px 20px 20px;
+    background-color:gainsboro;
+    padding:100px;
+    text-align:center;
+    /* background-size: contain; */
+    
+}
+#artdwa:hover{
+    /* background-image:url("logomiasta.jpg"); */
+    margin: 200px;
+    border-radius: 0px 20px 20px 20px;
+    background-color:chartreuse;
+    padding:100px;
+    text-align:center;
+    /* background-size: contain; */
+    
+}
+button{
+    position:fixed;
+}
